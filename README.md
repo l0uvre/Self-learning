@@ -51,7 +51,13 @@ In CS61B, we’re concerned also with engineering. An engineer, it is said, is s
 
 
     3. [Projcet2 - database](http://datastructur.es/sp17/materials/proj/proj2/proj2.html)
-      - [data files](data/project2/)
+      - data files
+        - [fans.tbl](data/proj2/fans.tbl)
+        - [records.tbl](data/proj2/records.tbl)
+        - [teams.tbl](data/proj2/teams.tbl)
+        - [t1.tbl](data/proj2/t1.tbl)
+        - [t2.tbl](data/proj2/t2.tbl)
+        - [t4.tbl](data/proj2/t4.tbl)
       - running results:
         - query examples from the project2 spec webpage
         ![examples](results/proj2_47s.gif)
