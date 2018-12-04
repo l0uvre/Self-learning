@@ -1,4 +1,4 @@
-#Independent Coursework
+# Independent Coursework
 
 Description
 -----------------
