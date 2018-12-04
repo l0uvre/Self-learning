@@ -2,7 +2,7 @@
 
 Description
 -----------------
-There are a whole bunch of literally awesome CS courses offered by top tier universities such as UC Berkeley, MIT and Stanford, which are quite accessible online for free even to the public. All credits to the great host of intellectuals. So, I choose to work on some of them, watching or reading the lectures and doing homework and projects.
+There are a whole bunch of literally awesome CS courses offered by top tier universities such as UC Berkeley, MIT and Stanford, which are quite accessible online for free even to the public. All credits to the great host of intellectuals. So, I choose to work on some of them, watching or reading the lectures and doing homework and projects. **Source codes are lying in other private repositories.**
 
 Index
 -----------------
