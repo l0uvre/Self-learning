@@ -26,11 +26,10 @@ In CS61B, we’re concerned also with engineering. An engineer, it is said, is s
     - [x] hw1
     - [x] proj0~2
     - [x] lab1~5
-  - TODO:
-    - [ ] Week8~14
-    - [ ] hw2~7
-    - [ ] lab9~15
-    - [ ] proj3
+    - [x] Week8~14
+    - [x] hw2~7
+    - [x] lab9~15
+    - [x] proj3
 
 ### Result
   For project 2, I chose to work on spring 2017 version, in which students are required to build a small version of what is called a relational database management system (DBMS), as well as a DSL (Domain Specific Language) with which a user can interact with the database.
@@ -52,7 +51,7 @@ In CS61B, we’re concerned also with engineering. An engineer, it is said, is s
       - tests from GradeScope:
         ![proj0](CS61B/results/CS61B-proj0.png)
 
-    2. Project1 - Data Structures
+    2. Project 1 - Data Structures
       - tests from GradeScope:
         - project1A:
           ![proj1A](CS61B/results/CS61B-proj1a.png)
@@ -62,7 +61,7 @@ In CS61B, we’re concerned also with engineering. An engineer, it is said, is s
           ![proj1gold](CS61B/results/CS61B-proj1gold.png)
 
 
-    3. [Projcet2 - database](http://datastructur.es/sp17/materials/proj/proj2/proj2.html)
+    3. [Projcet 2 - database](http://datastructur.es/sp17/materials/proj/proj2/proj2.html)
       - data files
         - [fans.tbl](CS61B/data/proj2/fans.tbl)
         - [records.tbl](CS61B/data/proj2/records.tbl)
@@ -76,20 +75,87 @@ In CS61B, we’re concerned also with engineering. An engineer, it is said, is s
 
         - more complicated queries with multiple conditions and some arithmetic operations:
         ![complicated](CS61B/results/proj2_53s.gif)
+        
+    4. Project 3: BearMaps
+      - tests from GradeScope:
+        ![proj3](CS61B/results/CS61B-sp19-proj2c.PNG)
 
   - Homework
-    1. hw1
+    1. hw 1 - Java Syntax and Sound Synthesis
       - tests from GradeScope:
         ![hw1](CS61B/results/CS61B-hw1.png)
 
+    2. hw 2 - Percolation
+      - tests from GradeScope:
+        ![hw2](CS61B/results/CS61B-hw2.png)
+
+    3. hw 3 - Hashing
+      - running result:
+        ![hw3-hashing](CS61B/results/CS61B-sp19-hw3-hashing.PNG)
+      - tests from GradeScope:
+        ![hw3](CS61B/results/CS61B-sp19-hw3.PNG)
+
+    4. hw 4 - Puzzle Solver
+      - tests from GradeScope:
+        ![hw4](CS61B/results/CS61B-sp19-hw4.PNG)
+
+    5. [hw 5 - Seam Carving](https://sp18.datastructur.es/materials/hw/hw5/hw5)
+      - tests from GradeScope:
+        ![hw5](CS61B/results/CS61B-hw5.png)
+
+    6. [hw 6 - Boggle](https://sp18.datastructur.es/materials/hw/hw6/hw6)
+      - tests from GradeScope:
+        ![hw6](CS61B/results/CS61B-hw6.png)
+
+    7. [HW 7 - Huffman Coding](https://sp18.datastructur.es/materials/hw/hw7/hw7)
+      - tests from GradeScope:
+        ![hw7](CS61B/results/CS61B-hw7.png)
+
   - lab
-    1. lab2
+    1. lab2 - Intellij Setup
       - tests from GradeScope:
         ![lab2](CS61B/results/CS61B-lab2.png)
 
-    2. lab3
+    2. [lab3 - Unit Testing with JUnit, Debugging](https://sp18.datastructur.es/materials/lab/lab3/lab3)
       - tests from GradeScope:
         ![lab3](CS61B/results/CS61B-lab3.png)
+
+    3. [Disjoint Sets](CS61B/results/CS61B-sp19-lab6.PNG)
+      - tests from GradeScope:
+        ![lab6-sp19](CS61B/results/CS61B-sp19-lab6.PNG)
+
+    4. [TreeMap](https://sp19.datastructur.es/materials/lab/lab7/lab7)
+      - tests from GradeScope:
+        ![lab7-sp19](CS61B/results/CS61B-sp19-lab7.PNG)
+
+    5. [HashMap](https://sp19.datastructur.es/materials/lab/lab8/lab8)
+      - tests from GradeScope:
+        ![lab8-sp19](CS61B/results/CS61B-sp19-lab8.PNG)
+
+    6. [Tries](https://sp19.datastructur.es/materials/lab/lab9/lab9)
+      - tests from GradeScope:
+        ![lab9-sp19](CS61B/results/CS61B-sp19-lab9.PNG)
+
+    7. [Priority Queues](https://sp18.datastructur.es/materials/lab/lab10/lab10)
+      - tests from GradeScope:
+        ![lab10](CS61B/results/CS61B-lab10.PNG)
+
+    8. [Graphs](https://sp18.datastructur.es/materials/lab/lab11/lab11)
+      - tests from GradeScope:
+        ![lab11](CS61B/results/CS61B-lab11.PNG)
+        
+    9. [Merge Sort and Quick Sort](https://sp19.datastructur.es/materials/lab/lab11/lab11)
+      - tests from GradeScope:
+        ![lab11-sp19](CS61B/results/CS61B-sp19-lab11.PNG)
+
+    10. [Radix Sorts](https://sp18.datastructur.es/materials/lab/lab13/lab13)
+      - tests from GradeScope:
+        ![lab13](CS61B/results/CS61B-lab13.PNG)
+
+    11. [Fractal Sound](https://sp18.datastructur.es/materials/lab/lab14/lab14)
+      - tests from GradeScope:
+        ![lab13](CS61B/results/CS61B-lab14.PNG)
+
 
 ## [CS 188](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 Introduction to Artificial Intelligence
